@@ -6,7 +6,7 @@
 * pytorch == 1.10.0
 * tqdm == 4.62.3
 * torchvision == 0.11.1
-
+FS2K数据集可以在[这里](https://pan.baidu.com/s/1ZdgoONyseQDaMbk5jYxmuQ?pwd=h6y8)获取，下载后解压到项目根目录即可
 
 ## 训练与测试
 
